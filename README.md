@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - Linkedin: https://www.linkedin.com/in/sarah-miranda-505341165/
-- Instagram: https://www.instagram.com/sarah__mi/
 
 
 

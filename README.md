@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Linkedin: https://www.linkedin.com/in/sarah-miranda-505341165/
+- Instagram: https://www.instagram.com/sarah__mi/
+
+
+
 <!--
 **Sarah-mi/sarah-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

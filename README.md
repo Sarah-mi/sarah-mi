@@ -1,6 +1,15 @@
-### Hi there 👋
+# Olá, me chamo Sarah Miranda, 
 
-- Linkedin: https://www.linkedin.com/in/sarah-miranda-505341165/
+Tenho 26 anos. Além de estar me aventurando no mundo do desenvolvimento, faço algumas outras coisinhas da vida: 
+
+- Sou formada em Administração de Empresas pela Universidade Federal do Piauí;
+- Atuo desde 2019 na área da educação, iniciei pela Fundação Getúlio Vargas, mas já trabalhei com licitações e crediários (**aleatório, eu sei**);
+- Hoje sou Coordenadora Docente na __Digital College_;
+- Mamãe de pet nas horas vagas;
+- E agora estudando desenvolvimento, para terminar de enlouquecer.
+
+### Minhas redes sociais
+[Bora se conectar no Linkedin] (https://www.linkedin.com/in/sarah-miranda-505341165/)
 
 
 
